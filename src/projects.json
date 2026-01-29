@@ -1,0 +1,75 @@
+
+
+[
+  {
+    "id": 1,
+    "title": "MeetFlow",
+    "description": "MeetFlow is an intelligent meeting management and collaboration platform that goes beyond video calls.",
+    "image": "./meet.png",
+    "link": "https://meet-flow-khaki.vercel.app/",
+    "github": "https://github.com/ssroyels/Meet-Flow.git"
+  },
+  {
+    "id": 2,
+    "title": "Trendex",
+    "description": "Trendex, a modern eCommerce web app focused on performance, design, and smooth user experience.",
+    "image": "./trendex.png",
+    "link": "https://trendex-eight.vercel.app/",
+    "github": "https://github.com/ssroyels/Trendex"
+  }, {
+    "id": 3,
+    "title": "MoodSync",
+    "description": "full-stack web application that detects your facial expression using AI/ML and recommends songs based on your mood instantly!",
+    "image": "./mood.png",
+    "link": "https://moodsync-2-1.onrender.com/",
+    "github": "https://github.com/ssroyels/MoodSync_2"
+  },
+  {
+    "id": 4,
+    "title": "AI_Agent",
+    "description": "chat message with AI integration using MERN technology ",
+    "image": "./ai-agent.png",
+    "link": "https://ai-agent-2-1.onrender.com/",
+    "github": "https://github.com/ssroyels/AI_AGENT-2"
+  }, {
+    "id": 5,
+    "title": "BookStore",
+    "description": "If you can store books and buys books this web apps",
+    "image": "./book.png",
+    "link": "https://bookstore-1-rkd5.onrender.com/",
+    "github": "https://github.com/ssroyels/BookStore"
+  },
+  {
+    "id": 6,
+    "title": "E-Khaad",
+    "description": "AI powered content generation platform.",
+    "image": "my-khaad.png",
+    "link": "https://virtualaifrontend.onrender.com",
+    "github": "https://github.com/ssroyels/E-khaad"
+  },
+  {
+    "id": 7,
+    "title": "ApnaVideoCall",
+    "description": "Video Calling web app like zoom using socket.io and MERN tech",
+    "image": "videocall.png",
+    "link": "https://apnavideocallbysatyamsingh.onrender.com/",
+    "github": "https://github.com/ssroyels/ApnaVideoCall"
+  },
+  {
+    "id": 7,
+    "title": "Apna Uber",
+    "description": "Uber Clone using MERN Stack",
+    "image": "uber.png",
+    "link": "https://uberclonebysatyam-1.onrender.com/",
+    "github": "https://github.com/ssroyels/UberCloneBySatyam"
+  },
+  {
+    "id": 9,
+    "title": "Singh-Restaurant",
+    "description": "Restaurant web app using reactjs,nodejs and etc.",
+    "image": "singh.png",
+    "link": "https://satyam-restaurant-1.onrender.com",
+    "github": "https://github.com/ssroyels/Satyam-Restaurant"
+  }
+
+]
