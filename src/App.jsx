@@ -245,6 +245,7 @@ export default function App() {
 
           {aboutTab === "experience" && (
             <ul className="space-y-2 text-gray-400">
+              <li>Frontend Developer Intern - IBM SkillsBuild Program Through AICTE (August 2025 - September 2025)</li>
               <li>Freelance MERN Developer (2024–Present)</li>
               <li>Frontend Developer (2024–2025)</li>
               <li>Backend Developer (2024–2025)</li>
